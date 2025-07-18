@@ -1,4 +1,3 @@
-````markdown
 # 🌟 RAG Chatbot: Converse with Your Data!
 
 <div align="center">
@@ -150,4 +149,3 @@ Questions, ideas, or bugs? Open an [issue](https://github.com/devang-bhardwaj/Ce
 <div align="center">
   <strong>Happy Chatting with Your Data! 🚀</strong>
 </div>
-````
